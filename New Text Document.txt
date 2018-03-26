@@ -1,2 +1,2 @@
-This is a test file to be committed
+This is a test file to be committed and changed
 RSGWA
